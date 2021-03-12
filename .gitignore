@@ -152,7 +152,3 @@ dmypy.json
 
 ### Jetbrains
 .idea
-
-
-### Market data
-**/*.csv
