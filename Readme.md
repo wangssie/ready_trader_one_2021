@@ -229,3 +229,4 @@ autotrader).
 You may replace your autotrader with a new one at any time. When each
 tournament starts we'll use the autotrader in your GIT repository at the
 cut-off time for that tournament.
+# trial_repo
